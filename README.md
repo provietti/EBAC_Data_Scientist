@@ -4,23 +4,22 @@ Repositório de tarefas e projetos do curso Profissão: Cientista de Dados da EB
 <details><summary> ✅ STATUS DOS MÓDULOS</summary>
 <p>
   
-- [x] Python: Projeto Final do curso introdutório
   
-- [ ] Elementos básicos de Python e Numpy - Parte I
+- [x] Elementos básicos de Python e Numpy - Parte I
   
-- [ ] Elementos básicos de Python e Numpy - Parte II
+- [x] Elementos básicos de Python e Numpy - Parte II
   
-- [ ] Introdução ao Pandas e carga de dados
+- [x] Introdução ao Pandas e carga de dados
   
-- [ ] Limpeza e preparação de dados
+- [x] Limpeza e preparação de dados
   
-- [ ] Descritiva I
+- [x] Descritiva I
   
-- [ ] Árvores I
+- [x] Árvores I
   
-- [ ] Git / GitHub - Controle de versionamento
+- [x] Git / GitHub - Controle de versionamento
   
-- [ ] TdD III - Agregações e operações em grupos
+- [x] TdD III - Agregações e operações em grupos
   
 - [ ] Descritiva II - Análise descritiva para resposta contínua
   
