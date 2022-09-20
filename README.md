@@ -1,16 +1,26 @@
 # EBAC_Data_Science
 Repositório de tarefas e projetos do curso Profissão: Cientista de Dados da EBAC
 
- <details><summary> ✅ STATUS DOS MÓDULOS DO CURSO </summary>
+<details><summary> ✅ STATUS DOS MÓDULOS</summary>
 <p>
-- [x] Elementos básicos de Python e Numpy - Parte I
-- [x] Elementos básicos de Python e Numpy - Parte II
-- [x] Introdução ao Pandas e carga de dados
-- [x] Limpeza e preparação de dados
-- [x] Descritiva I
-- [x] Árvores I
-- [x] Git / GitHub - Controle de versionamento
-- [x] TdD III - Agregações e operações em grupos
+- [x] Python: Variáveis & Tipos de Dados
+- [x] Python: Estruturas de Dados
+- [x] Python: Fluxo Condicional & Repetição
+- [x] Python: Arquivos & Funções
+- [x] Python: Programação Funcional
+- [x] Python: Programação Orientada a Objetos
+- [x] Python: Módulos & Pacotes
+- [x] Python: Tratamento de Erros
+- [x] Python: Scripting
+- [x] Python: Projeto Final do curso introdutório
+- [ ] Elementos básicos de Python e Numpy - Parte I
+- [ ] Elementos básicos de Python e Numpy - Parte II
+- [ ] Introdução ao Pandas e carga de dados
+- [ ] Limpeza e preparação de dados
+- [ ] Descritiva I
+- [ ] Árvores I
+- [ ] Git / GitHub - Controle de versionamento
+- [ ] TdD III - Agregações e operações em grupos
 - [ ] Descritiva II - Análise descritiva para resposta contínua
 - [ ] Árvores II (Parte I: árvore de regressão)
 - [ ] Regressão I
