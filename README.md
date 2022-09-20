@@ -40,3 +40,7 @@ Repositório de tarefas e projetos do curso Profissão: Cientista de Dados da EB
 - [ ] Descritiva IV - Visualização de dados categorizados
 - [ ] Regressão Logística II
 - [ ] Streamlit VI e Pycaret
+
+ </p>
+ </details>
+ 
