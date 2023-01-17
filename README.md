@@ -21,11 +21,11 @@ Repositório de tarefas e projetos do curso Profissão: Cientista de Dados da EB
   
 - [x] TdD III - Agregações e operações em grupos
   
-- [ ] Descritiva II - Análise descritiva para resposta contínua
+- [x] Descritiva II - Análise descritiva para resposta contínua
   
-- [ ] Árvores II (Parte I: árvore de regressão)
+- [x] Árvores II (Parte I: árvore de regressão)
   
-- [ ] Regressão I
+- [x] Regressão I
   
 - [ ] Regressão II
   
