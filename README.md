@@ -27,9 +27,9 @@ Repositório de tarefas e projetos do curso Profissão: Cientista de Dados da EB
   
 - [x] Regressão I
   
-- [ ] Regressão II
+- [x] Regressão II
   
-- [ ] Scripting
+- [x] Scripting
   
 - [ ] Streamlit I
   
