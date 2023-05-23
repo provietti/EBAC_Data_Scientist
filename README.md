@@ -31,11 +31,11 @@ Repositório de tarefas e projetos do curso Profissão: Cientista de Dados da EB
   
 - [x] Scripting
   
-- [ ] Streamlit I
+- [x] Streamlit I
   
-- [ ] TdD IV - Pandas avançado
+- [x] TdD IV - Pandas avançado
   
-- [ ] Árvores II (Parte II: árvore de classificação)
+- [x] Árvores II (Parte II: árvore de classificação)
   
 - [ ] Regressão Logística I
   
