@@ -37,9 +37,9 @@ Repositório de tarefas e projetos do curso Profissão: Cientista de Dados da EB
   
 - [x] Árvores II (Parte II: árvore de classificação)
   
-- [ ] Regressão Logística I
+- [x] Regressão Logística I
   
-- [ ] TdD V - SQL
+- [x] TdD V - SQL
   
 - [ ] Descritiva III - Gráficos interativos
   
