@@ -1,5 +1,5 @@
 # EBAC_Data_Science
-Repositório de tarefas e projetos do curso Profissão: Cientista de Dados da EBAC
+Repositório de tarefas do curso Profissão: Cientista de Dados da EBAC
 
 <details><summary> ✅ STATUS DOS MÓDULOS DO CURSO</summary>
 <p>
