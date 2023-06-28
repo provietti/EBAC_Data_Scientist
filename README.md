@@ -41,7 +41,7 @@ Repositório de tarefas do curso Profissão: Cientista de Dados da EBAC
   
 - [x] TdD V - SQL
   
-- [ ] Descritiva III - Gráficos interativos
+- [x] Descritiva III - Gráficos interativos
   
 - [ ] Combinação de modelos I
   
