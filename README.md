@@ -43,13 +43,13 @@ Repositório de tarefas do curso Profissão: Cientista de Dados da EBAC
   
 - [x] Descritiva III - Gráficos interativos
   
-- [ ] Combinação de modelos I
+- [x] Combinação de modelos I
   
-- [ ] Combinação de modelos II
+- [x] Combinação de modelos II
   
-- [ ] Cálculo
+- [x] Cálculo
   
-- [ ] Algelin
+- [x] Algebra linear
   
 - [ ] PCA
   
